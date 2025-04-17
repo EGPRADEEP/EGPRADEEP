@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently Pursuring **B.TECH.ELECTRONICS AND COMMUNICATION ENGINEERING**
 
 - 🤝 I’m looking for help with [LoRa](https://how2electronics.com/interfacing-lora-sx1276-with-stm32-microcontroller-lr1276-915mhz/)
 

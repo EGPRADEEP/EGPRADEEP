@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Pursuring **B.TECH.ELECTRONICS AND COMMUNICATION ENGINEERING**
 
-- 🤝 I’m looking for help with [LoRa](https://how2electronics.com/interfacing-lora-sx1276-with-stm32-microcontroller-lr1276-915mhz/)
+- 🤝 I’m looking for help with [LoRa Projects](https://how2electronics.com/interfacing-lora-sx1276-with-stm32-microcontroller-lr1276-915mhz/)
 
 - 📫 How to reach me **egpradeep2005@gmail.com**
 

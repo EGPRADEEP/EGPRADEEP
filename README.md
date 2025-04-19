@@ -1,42 +1,74 @@
-<h1 align="center">Hi 👋, I'm E.G.PRADEEP</h1>
-<h3 align="center">A passionate Electronic Engineer from India</h3>
+### Hi there, I'm E.G. PRADEEP! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=egpradeep&label=Profile%20views&color=0e75b6&style=flat" alt="egpradeep" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=egpradeep" alt="egpradeep" /></a> </p>
+#### 🚀 About Me:
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+- 🎓 I'm currently pursuing **B.Tech in Electronics and Communication Engineering**.
+- 🔬 I’m passionate about **Electronics**, **LoRa technology**, and **Embedded Systems**.
+- 🤝 I'm currently exploring projects using **STM32**, **LoRa SX1276**, and **real-time communication systems**.
 
-- 🌱 I’m currently Pursuring **B.TECH.ELECTRONICS AND COMMUNICATION ENGINEERING**
+---
 
-- 🤝 I’m looking for help with [LoRa Projects](https://how2electronics.com/interfacing-lora-sx1276-with-stm32-microcontroller-lr1276-915mhz/)
+#### 🎤 Public Engagement:
 
-- 📫 How to reach me **egpradeep2005@gmail.com**
+- I actively engage with developer platforms like **LeetCode**, **Hackerrank**, and **GeeksforGeeks**.
+- I’m enthusiastic about collaborating on innovative **IoT** and **hardware-based** projects.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1l2Oi3cH2F4gr7ECJvLGHn9tm1aWu0qih/view?usp=sharing](https://drive.google.com/file/d/1l2Oi3cH2F4gr7ECJvLGHn9tm1aWu0qih/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/e.g.pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="e.g.pradeep" height="30" width="40" /></a>
-<a href="https://kaggle.com/eg pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="eg pradeep" height="30" width="40" /></a>
-<a href="https://fb.com/eg pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eg pradeep" height="30" width="40" /></a>
-<a href="https://instagram.com/the_nameis_eg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_nameis_eg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/eg pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eg pradeep" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/real_bug_83" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="real_bug_83" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ra2211004050026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ra2211004050026" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/e.g.pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="e.g.pradeep" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/egpradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="egpradeep" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/e.g.pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="e.g.pradeep" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/egpradej1mw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="egpradej1mw" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/e.g.pradeep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="e.g.pradeep" height="30" width="40" /></a>
-<a href="https://discord.gg/e.g.pradeep_85743" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="e.g.pradeep_85743" height="30" width="40" /></a>
+#### 🛠️ Tech Stack:
+
+- **Languages:** C, C++, Python
+- **Technologies:** Embedded Systems, LoRa, STM32, AI/ML (basics), Git
+- **Tools:** VSCode, Jupyter Notebook, GitHub
+- **Libraries & Frameworks:** Pandas, TensorFlow (basics)
+
+---
+
+#### 📫 Let's Connect:
+
+Feel free to connect with me for **collaboration, projects, or discussions** in the field of Electronics and IoT!
+
+- 💼 [LinkedIn](https://linkedin.com/in/e.g.pradeep)
+- 📧 Email: **egpradeep2005@gmail.com**
+- 📄 [Resume](https://drive.google.com/file/d/1l2Oi3cH2F4gr7ECJvLGHn9tm1aWu0qih/view?usp=sharing)
+- 📷 [Instagram](https://instagram.com/the_nameis_eg)
+- 💬 [Discord](https://discord.gg/e.g.pradeep_85743)
+
+---
+
+#### 🌐 Coding Platforms:
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-egpradeep-orange)](https://www.leetcode.com/egpradeep)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-green)](https://www.hackerrank.com/profile/ra2211004050026)
+[![CodeChef](https://img.shields.io/badge/CodeChef-real_bug_83-brightgreen)](https://www.codechef.com/users/real_bug_83)
+[![Codeforces](https://img.shields.io/badge/Codeforces-e.g.pradeep-blue)](https://codeforces.com/profile/e.g.pradeep)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-egpradej1mw-success)](https://auth.geeksforgeeks.org/user/egpradej1mw)
+[![TopCoder](https://img.shields.io/badge/TopCoder-e.g.pradeep-purple)](https://www.topcoder.com/members/e.g.pradeep)
+
+---
+
+#### 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=egpradeep&show_icons=true&locale=en" alt="egpradeep" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=egpradeep&show_icons=true&locale=en&layout=compact" alt="egpradeep" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=egpradeep" alt="egpradeep" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=egpradeep&show_icons=true&locale=en&layout=compact" alt="egpradeep" /></p>
+#### 🛠️ Tools & Languages:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=egpradeep&show_icons=true&locale=en" alt="egpradeep" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=egpradeep&" alt="egpradeep" /></p>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" />
+</p>

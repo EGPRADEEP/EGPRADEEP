@@ -12,17 +12,17 @@
 
 #### 🎤 Public Engagement:
 
-- I actively engage with developer platforms like **LeetCode**, **Hackerrank**, and **GeeksforGeeks**.
-- I’m enthusiastic about collaborating on innovative **IoT** and **hardware-based** projects.
+- I actively engage with developer platforms like **LeetCode**
+- I’m enthusiastic about collaborating on innovative **hardware-based** projects.
 
 ---
 
 #### 🛠️ Tech Stack:
 
 - **Languages:** C, C++, Python
-- **Technologies:** Embedded Systems, LoRa, STM32, AI/ML (basics), Git
-- **Tools:** VSCode, Jupyter Notebook, GitHub
-- **Libraries & Frameworks:** Pandas, TensorFlow (basics)
+- **Technologies:** Embedded Systems
+- **Tools:** VSCode , GitHub
+
 
 ---
 

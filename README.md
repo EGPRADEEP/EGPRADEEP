@@ -19,10 +19,7 @@
 
 #### 🛠️ Tech Stack:
 
-- **Languages:** C, C++, Python
-- **Technologies:** Embedded Systems
-- **Tools:** VSCode , GitHub
-
+- **Languages:** C, Python
 
 ---
 

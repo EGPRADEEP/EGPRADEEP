@@ -29,7 +29,7 @@ Feel free to connect with me for **collaboration, projects, or discussions** in 
 
 - 💼 [LinkedIn](https://linkedin.com/in/e.g.pradeep)
 - 📧 Email: **egpradeep2005@gmail.com**
-- 📄 [Resume](https://drive.google.com/file/d/1l2Oi3cH2F4gr7ECJvLGHn9tm1aWu0qih/view?usp=sharing)
+- 📄 [Resume](https://drive.google.com/file/d/1AMKRMBtabyqJVleqmFloj3_pqZsIcphm/view?usp=drive_link)
 - 📷 [Instagram](https://instagram.com/the_nameis_eg)
 - 💬 [Discord](https://discord.gg/e.g.pradeep_85743)
 
